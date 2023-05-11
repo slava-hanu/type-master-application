@@ -1,0 +1,38 @@
+.container {
+  max-width: 100vw;
+  margin: 0;
+  padding: 2rem;
+  box-shadow: 3px -9px 10px rgba(244, 4, 4, 0.1),
+    3px 9px 10px rgba(228, 61, 61, 0.1);
+}
+.container h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #061f9c;
+  text-shadow: 3px -9px 8px rgb(141, 138, 165);
+}
+.container h2 {
+  text-align: center;
+  text-shadow: 3px -9px 8px rgb(141, 138, 165);
+
+  color: rgb(80, 73, 180);
+}
+
+.container p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  color: hwb(107 3% 65%);
+  text-align: center;
+  font-style: italic;
+  text-shadow: 3px -9px 8px rgb(141, 138, 165);
+  font-weight: bold;
+}
+.container h5 {
+  font-size: 1rem;
+  text-align: center;
+  text-shadow: 3px -9px 8px rgb(141, 138, 165);
+  color: rgb(197, 14, 14);
+}

@@ -1,0 +1,28 @@
+.controll{
+    display: inline;
+    width: 90vw;
+  
+    margin-top: 3px;
+    margin-bottom: 30px;
+}
+ .control textarea {
+   width:90vw;
+    height: 25vh;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 1.25em;
+    
+ }
+  .control p {
+    text-align: center;
+    color:red;
+    animation: p 1.5s  1s linear infinite;
+  }
+  @keyframes p {
+    0% {
+       opacity: 0;
+    }
+    100% {
+        opacity: 100%;
+    }
+  }

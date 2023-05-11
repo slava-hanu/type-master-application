@@ -1,0 +1,29 @@
+.control {
+  min-height: 79vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 2rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 95vw;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.bottom {
+  width: 95vw;
+  display: flex;
+  flex: 1;
+  background-color: #ebdcb2;
+}

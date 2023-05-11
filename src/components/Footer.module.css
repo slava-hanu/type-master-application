@@ -1,0 +1,22 @@
+.control {
+  display: flex;
+  height: max-content;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  color: white;
+  margin-bottom: 0;
+  height: 7vh;
+}
+.control a {
+  text-decoration: none;
+  color: beige;
+}
+
+.control h5 {
+  color: beige;
+}

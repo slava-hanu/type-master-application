@@ -1,0 +1,36 @@
+.body {
+  padding: 0;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 100vw;
+  margin: 0 auto;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: burlywood;
+}
+
+.container h1 {
+  width: 100%;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: hsl(70, 94%, 43%);
+  background-color: black;
+}
+
+.container h2 {
+  font-size: 1rem;
+  padding: 2px;
+  background-color: black;
+  color: rgb(245, 171, 81);
+}
+.container p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  color: #0b0808;
+  font-weight: 300;
+}
